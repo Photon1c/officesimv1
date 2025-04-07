@@ -6,4 +6,6 @@ A Three.js starting template for an office worker simulation, along with project
 
 Install instructions: 
 
-*No installation required, modules loaded inside index.html file. Use an http server to see web page, i.e Python, http-server, live-server, etc*
+*No installation required!* 
+
+All modules are loaded inside the index.html file. Use an http server to see web page, i.e Python, http-server, live-server, etc
